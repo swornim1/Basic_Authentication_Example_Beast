@@ -1,9 +1,0 @@
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Studying server types
-1)HTTP, synchronous
-2)HTTP, asynchronous
-3)HTTP, coroutine
-4)HTTP, stackless coroutine
-5)HTTP, fast (optimized for speed)
-6)HTTP, small (optimized for space)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
